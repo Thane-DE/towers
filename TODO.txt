@@ -1,0 +1,15 @@
+DO:
+
+- hanoi.c: Add a proper error-cheking whether values are actually integers or not.
+- hanoi.c  Allow for more than single-digit values
+
+
+
+OPTIONAL:
+- hanoi.c: Fix the workaround so that it is now possible for nodes to start with something other than 1
+	The program works with all numbers, but it only displays 1-so and so.
+
+DONE:
+- hanoic.: Something, something, recursive, something
+- hanoi.c: Correct node number
+- single_linked_stack.c: VALGRIND all the things!
